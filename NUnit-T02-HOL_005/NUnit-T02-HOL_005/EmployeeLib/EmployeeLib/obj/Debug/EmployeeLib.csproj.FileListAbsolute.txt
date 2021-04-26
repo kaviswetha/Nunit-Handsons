@@ -1,0 +1,5 @@
+D:\NUnit\Handson\NUnit-T02-HOL_005\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\NUnit\Handson\NUnit-T02-HOL_005\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\NUnit\Handson\NUnit-T02-HOL_005\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\NUnit\Handson\NUnit-T02-HOL_005\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\NUnit\Handson\NUnit-T02-HOL_005\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

@@ -1,0 +1,6 @@
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\bin\Debug\CalculatorLib.dll
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\bin\Debug\CalculatorLib.pdb
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\obj\Debug\CalculatorLib.dll
+D:\NUnit\Handson\Nunit-T01-HOL_001\CalculatorAdd\CalculatorLib\obj\Debug\CalculatorLib.pdb

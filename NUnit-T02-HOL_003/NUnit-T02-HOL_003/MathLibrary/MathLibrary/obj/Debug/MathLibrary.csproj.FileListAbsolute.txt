@@ -1,0 +1,5 @@
+D:\NUnit\Handson\NUnit-T02-HOL_003\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+D:\NUnit\Handson\NUnit-T02-HOL_003\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\NUnit\Handson\NUnit-T02-HOL_003\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\NUnit\Handson\NUnit-T02-HOL_003\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+D:\NUnit\Handson\NUnit-T02-HOL_003\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb

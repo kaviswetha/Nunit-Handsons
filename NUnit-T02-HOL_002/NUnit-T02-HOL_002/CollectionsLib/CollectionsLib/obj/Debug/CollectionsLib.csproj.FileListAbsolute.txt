@@ -1,0 +1,5 @@
+D:\NUnit\Handson\NUnit-T02-HOL_002\CollectionsLib\CollectionsLib\bin\Debug\CollectionsLib.dll
+D:\NUnit\Handson\NUnit-T02-HOL_002\CollectionsLib\CollectionsLib\bin\Debug\CollectionsLib.pdb
+D:\NUnit\Handson\NUnit-T02-HOL_002\CollectionsLib\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+D:\NUnit\Handson\NUnit-T02-HOL_002\CollectionsLib\CollectionsLib\obj\Debug\CollectionsLib.dll
+D:\NUnit\Handson\NUnit-T02-HOL_002\CollectionsLib\CollectionsLib\obj\Debug\CollectionsLib.pdb
